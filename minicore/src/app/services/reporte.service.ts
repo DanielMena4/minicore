@@ -12,7 +12,7 @@ export class ReporteService {
   private http = inject(HttpClient);
 
   private apiUrl =
-    'http://localhost:3000/api/reporte';
+    'https://minicore-backend-ujmd.onrender.com/api/reporte';
 
   obtenerReporte(
     fechaInicio: string,
