@@ -53,7 +53,8 @@ El backend se ejecuta en:
 
 http://localhost:3000
 
-🔹 Frontend (Angular)
+---
+###🔹 Frontend (Angular)
 
 ```
 cd minicore
@@ -65,13 +66,22 @@ La aplicación estará disponible en:
 
 http://localhost:4200
 
-🌐 Deploy
-🔵 Frontend: https://zippy-creponne-83cf11.netlify.app/
-🟢 Backend: https://minicore-backend-ujmd.onrender.com/api/reporte
+---
+## 🌐 Deploy
 
-📹 Video explicativo
+### 🔵 Frontend 
+
+https://zippy-creponne-83cf11.netlify.app/
+
+### 🟢 Backend
+
+https://minicore-backend-ujmd.onrender.com/api/reporte
+
+---
+## 📹 Video explicativo
 https://drive.google.com/drive/folders/1mirJ8rRg2e0gwMeFppSMQh-jY8dRuXcH?usp=sharing
 
-✉️ Autor
+---
+## ✉️ Autor
 Estudiante: Daniel Mena
 Email: daniel.mena.delgado@udla.edu.ec
